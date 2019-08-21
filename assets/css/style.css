@@ -19,3 +19,7 @@
     font-family: titleFont, monospace;
     font-weight: 500;
 }
+
+.navList {
+    list-style-type: none;
+}
