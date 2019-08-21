@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "headerFont";
+    src: url("../fonts/RMStandardFont.woff") format("woff");
+}
+@font-face {
+    font-family: "mainFont";
+    src: url("../fonts/RCbodyFont.woff") format("woff");
+}
+@font-face {
+    font-family: "buttonFont";
+    src: url("../fonts/RCButtonFont.woff") format("woff");
+}
+@font-face {
+    font-family: "titleFont";
+    src: url("../fonts/RCTitleFont.woff") format("woff");
+}
+
+#navBrandText {
+    font-family: titleFont, monospace;
+    font-weight: 500;
+}
