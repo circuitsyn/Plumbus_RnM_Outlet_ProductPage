@@ -24,6 +24,22 @@
     list-style-type: none;
 }
 
+#plumbusGrp {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
 #mainPlumbusImg {
     height: 70%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#asSeenImg {
+    position: absolute;
+    top: 55%;
+    left: 75%;
+    height: 20%;
 }
