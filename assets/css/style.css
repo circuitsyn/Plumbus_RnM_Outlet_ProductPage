@@ -47,3 +47,11 @@
 #greetingSection {
     height: 90vh;
 }
+
+.page-footer {
+    /* height: 3vh; */
+}
+
+#footerBadge {
+    height: 30px;
+}
