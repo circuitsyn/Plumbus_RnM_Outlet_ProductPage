@@ -15,6 +15,10 @@
     src: url("../fonts/RCTitleFont.woff") format("woff");
 }
 
+body {
+    font-family: mainFont, monospace;
+}
+
 #navBrandText {
     font-family: titleFont, monospace;
     font-weight: 500;
@@ -50,4 +54,9 @@
 
 #footerBadge {
     height: 30px;
+}
+
+#footerText {
+    font-size: 1.2rem;
+    font-weight: bold;
 }
