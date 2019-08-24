@@ -20,12 +20,21 @@ body {
 }
 
 #navBrandText {
-    font-family: titleFont, monospace;
-    font-weight: 500;
+    font-family: headerFont, monospace;
+    /* font-weight: 500; */
 }
 
 .navList {
     list-style-type: none;
+}
+
+.titles {
+    font-family: headerFont, monospace;
+    /* font-weight: 500; */
+}
+
+.learnBtn {
+    font-family: "buttonFont", monospace;
 }
 
 #plumbusGrp {
@@ -49,7 +58,7 @@ body {
 }
 
 #greetingSection {
-    height: 90vh;
+    /* height: 90vh; */
 }
 
 #footerBadge {
@@ -58,5 +67,14 @@ body {
 
 #footerText {
     font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.footerPadding {
+    padding: 10vh;
+}
+
+.greetingItem {
+    font-size: 1.3rem;
     font-weight: bold;
 }
