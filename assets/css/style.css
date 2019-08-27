@@ -88,3 +88,9 @@ body {
     height: 35rem;
     width: auto;
 }
+
+.videoModal, .modal-content-custom {
+    background: transparent;
+    border: none;
+    max-width: none;
+}
